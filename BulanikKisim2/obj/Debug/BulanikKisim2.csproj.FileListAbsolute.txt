@@ -1,0 +1,9 @@
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\bin\Debug\BulanikKisim2.exe.config
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\bin\Debug\BulanikKisim2.exe
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\bin\Debug\BulanikKisim2.pdb
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\obj\Debug\BulanikKisim2.csprojAssemblyReference.cache
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\obj\Debug\BulanikKisim2.Properties.Resources.resources
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\obj\Debug\BulanikKisim2.csproj.GenerateResource.cache
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\obj\Debug\BulanikKisim2.exe
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\obj\Debug\BulanikKisim2.pdb
+C:\Users\balboa\source\repos\BulanikKisim2\BulanikKisim2\obj\Debug\BulanikKisim2.Form1.resources
